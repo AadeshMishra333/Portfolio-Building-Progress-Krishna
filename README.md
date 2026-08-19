@@ -12,6 +12,8 @@ This repo is dedicated to the process of building my portfolio for current place
 > Font, Buzzwords(Negative), Linkdin, Word count
 * Large Changes
 > Industry Experience
+* Sir Changes
+> Sir has Given Some Changes Need to Implement that (Implemented and Saved as name: personal/Aadesh_Resume_Sir_Final_1.pdf)
 ---
 
 ### Manage Projects
