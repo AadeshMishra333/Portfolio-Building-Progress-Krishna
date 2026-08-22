@@ -19,13 +19,16 @@ This repo is dedicated to the process of building my portfolio for current place
 ### Manage Projects
 * Learn Projects
   1. CSAE Net - [Deep learning Revision and CSAE Net Architecture Finish](https://github.com/AadeshMishra333/DCSAUNet-Study-For-Interviews) **4 days**
-  2. [IDEVA](https://github.com/AadeshMishra333/IDEVA-Internship-Progress) - Finish The Bible and Sir Software Stack Setup **2 Days**
-  3. Divya Chetna Website - First Manage the website issue and optimize it, then seek a guided roadmap for its porfolio preparation **2 Days**
-  4. Sona Power Predict - Retrieve the versions and see how the model works **1 Day**
+     > Put Param Utkarsh CDAC working guide in the Github as well while maintaining it
+  3. [IDEVA](https://github.com/AadeshMishra333/IDEVA-Internship-Progress) - Finish The Bible and Sir Software Stack Setup **2 Days**
+     > Preetu Ma'am needs 15 to 20 Days For H/W setup
+  4. Divya Chetna Website - First Manage the website issue and optimize it, then seek a guided roadmap for its porfolio preparation **2 Days**
+     > Thinking to Drop This because by 31st we would have IBM project
+  5. Sona Power Predict - Retrieve the versions and see how the model works **1 Day**
 
 * Polish Github _(After Managing Projects)_
   * Profile landing Page Should Look Attractive
-  * For each of the projects learn how to set up good looking pages
+  * For each of the projects learn how to set up(see the tools used and proceed with learning implementation for each) good looking pages
 
 ## REALISTIC DEADLINE _27/08/2026_
 ## We are doing daily [DSA](https://github.com/AadeshMishra333/Interview-DSA-Progress), [CGPA Sem V Study](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs), Sir Project
