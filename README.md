@@ -31,5 +31,5 @@ This repo is dedicated to the process of building my portfolio for current place
   * For each of the projects learn how to set up(see the tools used and proceed with learning implementation for each) good looking pages
 
 ## REALISTIC DEADLINE _27/08/2026_
-## We are doing daily [DSA](https://github.com/AadeshMishra333/Interview-DSA-Progress), [CGPA Sem V Study](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs), Sir Project
+## We are doing daily [IBM](https://github.com/AadeshMishra333/IBM-SkillsBuild-Hackathon-Progress), [DSA](https://github.com/AadeshMishra333/Interview-DSA-Progress), [CGPA Sem V Study](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs), Sir Project ([EVit](https://github.com/AadeshMishra333/EVit-and-Junior-Research-Guide), CSAE net)
 ## After that start approaching the systematic roadmap and covering subjects
