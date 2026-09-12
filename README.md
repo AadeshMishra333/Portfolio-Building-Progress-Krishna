@@ -14,6 +14,7 @@ This repo is dedicated to the process of building my portfolio for current place
 > Industry Experience
 * Sir Changes
 > Sir has Given Some Changes Need to Implement that (Implemented and Saved as name: personal/Aadesh_Resume_Sir_Final_1.pdf)
+> [ ] Sir wants to start implementing medical EVit Paper
 ---
 
 ### Manage Projects
@@ -25,6 +26,13 @@ This repo is dedicated to the process of building my portfolio for current place
   4. Divya Chetna Website - First Manage the website issue and optimize it, then seek a guided roadmap for its porfolio preparation **2 Days**
      > Thinking to Drop This because by 31st we would have IBM project
   5. Sona Power Predict - Retrieve the versions and see how the model works **1 Day**
+     > We have secured **9th** place in the Hackathon, learn ML from semester (do 1-2 small projects to polish **Data Analysis**) and refine this project (1-2 weeks, simultaneous)
+     > Update its github repo with ablation versions
+  6. [IBM](https://github.com/AadeshMishra333/IBM-SkillsBuild-Hackathon-Progress) project - We have the Backend in place but no frontend **2-3 Weeks**
+     > We are mostly not including it in resume as of now, let's see what happens on completion and how do we put it in our resume
+  7. Sir [EVit](https://github.com/AadeshMishra333/EVit-and-Junior-Research-Guide)
+     > Guide the Juniors
+     > Start doing your Medical Dataset wala kaam, just run the paper so it can be mentioned in portfolio 
 
 * Polish Github _(After Managing Projects)_
   * Profile landing Page Should Look Attractive
