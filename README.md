@@ -35,7 +35,7 @@ This repo is dedicated to the process of building my portfolio for current place
      > Start doing your Medical Dataset wala kaam, just run the paper so it can be mentioned in portfolio 
 
 * Polish Github _(After Managing Projects)_
-  * Profile landing Page Should Look Attractive
+  * Profile landing Page Should Look Attractive (done - only portfolio website required to be setup)
   * For each of the projects learn how to set up(see the tools used and proceed with learning implementation for each) good looking pages
 
 ## REALISTIC DEADLINE _27/08/2026_
